@@ -8,7 +8,7 @@ int main() {
   greet();
 
   //Data Structures
-  std::string codeword="codecademy"; //word to guess
+  std::string codeword="peekaboo"; //word to guess
   std::string answer="__________"; //placeholder for input
   int misses = 0; //num of misses
   std::vector<char> incorrect;//array of incorrect answers
